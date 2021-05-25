@@ -41,11 +41,9 @@ To do this, we took a ready-made dataset with reviews from Kaggle and a comparab
 As main metric we used F1 score since it was not affected by class imbalance, but in order have metric for people who are far away from statistics we also used Accuracy, as it easier in explanation. **The final F1 score on validation was 94% and accuracy was 91%**.
 
 ## The repository structure
-### telegram.py
-The bot with models
-### wildberries.py
-Parsing
 ### Stopwords_and_Sentiment.ipynb
 Preprocessing, clusterization model and inference of sentiment model
 ### Sentiment_model_full_extended.ipynb
 Sentiment model training
+
+**The main project repository is here: https://github.com/SvetlanaY/Wildberries_bot/tree/master**
